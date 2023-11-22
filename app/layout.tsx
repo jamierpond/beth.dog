@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     locale: 'en_IE',
     url: 'https://beth.dog',
     images: [{
-      url: '/pup_square.jpeg',
+      url: '/pup.jpg',
       alt: 'a pup',
     }],
   },

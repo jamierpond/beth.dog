@@ -1,6 +1,6 @@
 
 import Image from 'next/image'
-import Pup from '../public/pup_square.jpeg'
+import Pup from '../public/pup.jpg'
 
 export default function Home() {
   return (
