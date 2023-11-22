@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'little beth',
-  description: "little beth | shes's got the best mlemer",
+  description: "little beth | she's got the best mlemer",
   openGraph: {
     siteName: 'little beth',
     type: 'website',
